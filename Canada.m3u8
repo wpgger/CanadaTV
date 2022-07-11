@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPjh-gJFtQcmoGudR9m1yl0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI3KNmhS8jno3vdnAlK9654/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKeq1DboO-mWeVR-vdx8uD0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SExxxMSIP40jUqqNb1RoJoQ/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHO_03L0sEb_UNEo6CQzNjE/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AddikTV HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC0pvQT_J5uuDO-x6dyxY7E/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Ami-Télé HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNRT52D_rSnIVqaXpqOyrkM/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Canada HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLwpSUPJ5QUDxU_sOrOLrCg/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Undefined",BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="Undefined",CA | EMCI TV,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Undefined",CA | Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",CA | IIPC TV,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Undefined",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",CA | QVTV,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI_xeE80EkdMkW7aWRpuock/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Calgary HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBWogmhfeZPH-DmDCpKMZE4/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Central HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCaSBrKBZhMnwUIhtABi1XA/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Eastern HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAiVvTR6qVCECSyQAthyqPE/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMq8DNwrxV6TvE0OdvlXYok/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC West HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFg0fSeGYQpwf0FIHnPwTe8/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCoW1k6A2jnRwirtApyJ9yg/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMGcd1pzvGJzDpgL3OdM_mM/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVV5DIwC3CBUt4Ii0NnyXg/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTT3Gbg1ivrZpl9Z0gLtKY/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV (KITCHENER)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIbbMQeXs2pQei-iTQSHRjM/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Comedy East HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8B1dQ4-YtMgKZyrSUEOEc/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Drama HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGHC2ZRzyNAx0wlS-GIoIqM/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEWb8Jrde8qczoWX_PAXuW0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Montreal SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNyCcJx8XTSKsvAoIxYtlyY/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD8ENkdDSUAOvGVyKoQ78SM/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Western HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN8rfqVT4_Gwf6fmT88oMSE/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport",CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Undefined",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal D HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPa2bM17MK3coHmcbdakXXo/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Savoir HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGbci52eFigtGl5RZsVwX2c/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Canal Vie HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ8pdcl38gpC8csew-vXhP0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Cooking Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHWWxe2fAUxImiYOICAdCPU/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD4Swm2AHpga1-2a0a_KPZw/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="General",DesheBideshe TV (720p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHNynmeFAsbsUh4aThSZ9Jk/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Science HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJE8g6xKSCxL2_2ao02mn6I/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLD3eFjpBQPZXdinZJ27kuk/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL2NhpuH9rHzI25I69H2dC4/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Junior HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKe5ePVrBmjiOkS_moZjdLk/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney XD HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF_jcZlZX_cg3pOAhog5O-s/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png" group-title="General",Doyel TV (720p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png" group-title="General",Doyel TV (720p) [Not 24/7]
+http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.dukhnivaran.ca/wp-content/uploads/2019/01/dukhnivaran_logo1-1.png" group-title="Undefined",Dukh Nivaran (720p) [Not 24/7]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! Entertainment HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMh_nWA3r-KbzqLPVD_t31w/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="Undefined",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="Undefined",EMCI TV Montreal (Opt-2)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Evasion HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SChHshQxGROYKqY_Lth0xnA/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FTO HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFuHAOWxADWhN-aiuYeFsaQ/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEN-rHmXGvPvYl2oAw7UzAQ/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FXX HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcYqwHKMekgrRzbHCje0mg/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPYMtqVtJaxZ2mar6R3l4CE/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Family JR HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN_Av70fBimkBOw-ck2s7eo/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fight Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOHUZt6tORH8IrIgXg-eUCo/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Food Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL0HB2PhjuoziU_4oYMqJ9g/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GameTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEcyxkXVhV25GRNZ2InAswA/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="News",Global News Calgary (720p)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton (720p)
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/HM2cvBm.jpg" group-title="News",Global News Lethbridge (720p)
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bMXVsVB.jpg" group-title="News",Global News Okanagan (720p)
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="News",Global News Toronto (720p)
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (Scarborough)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHCTmvKV59tF7s28QnAsOkk/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCOXcT8vYlpX3M3JBCjJ01M/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",History Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLFTsr2f5v8I4qBB6fT3QnU/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI RDI HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGyljmfP9J1U0xMcoXMukYI/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI Radio-Canada Télé HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHjArCj_vDb-pKvpwUjhJz0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Investigation (FR) HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNrAnUefBcKHBK-45c-geII/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF5orWXEn722yEAOg6EvS54/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Lifetime HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLiVZ9nyuRe8xgLM0Oerm9E/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKyBJkGcUdoiccdZ_Q1gIOs/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMPOfTqE-lHOB2bEFhvrtAk/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Moi & Cie HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFE99t27cO7M5JwwroFe-lU/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://www.thenrb.tv/organization/logo/nrb-tv_WJkwkcRXBEVrzo5_1576430300.jpg" group-title="General",NRB TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nat Geo Wild HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP_FGOQ4yZeu9dP7KIUSVp0/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",National Geographic HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFh9l6bzoU66_UqExUByio/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFFT6a3BuJxCySzHamN_oNQ/ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Undefined",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Undefined",Plymouth Rock TV (1080p)
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Undefined",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:iptvcat.net
